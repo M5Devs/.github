@@ -5,7 +5,7 @@
 **AI developer & creative studio.** Retro-gaming tooling, native systems software and anime models —
 built in Cairo, shipped in the open, **never behind a paywall**.
 
-[**Portfolio**](https://M5Devs.github.io) · [**Hugging Face**](https://huggingface.co/M5-Dev) · [**Discord**](https://discord.gg/FYEjpcFYXc) · [**All repositories**](https://github.com/M5Devs?tab=repositories)
+[**Portfolio**](https://M5Devs.github.io) · [**Hugging Face**](https://huggingface.co/M5-Dev) · [**X**](https://x.com/M5Devs) · [**Dev.to**](https://dev.to/m5dev) · [**YouTube**](https://www.youtube.com/@m5devs) · [**Discord**](https://discord.gg/FYEjpcFYXc) · [**All repositories**](https://github.com/M5Devs?tab=repositories)
 
 ![Public repos](https://img.shields.io/badge/public_repos-40%2B-22d3ee?style=flat-square)
 ![Stars](https://img.shields.io/github/stars/M5Devs?style=flat-square&label=stars&color=22d3ee)
@@ -123,7 +123,7 @@ SDL2, Qt, LLVM, clang, ComfyUI and RVC where the job calls for it.
 
 **Built with rage & caffeine.** GPL. Forever free.
 
-[Portfolio](https://M5Devs.github.io) · [GitHub](https://github.com/M5Devs) · [Hugging Face](https://huggingface.co/M5-Dev) · [Discord](https://discord.gg/FYEjpcFYXc)
+[Portfolio](https://M5Devs.github.io) · [GitHub](https://github.com/M5Devs) · [Hugging Face](https://huggingface.co/M5-Dev) · [X](https://x.com/M5Devs) · [Dev.to](https://dev.to/m5dev) · [YouTube](https://www.youtube.com/@m5devs) · [Discord](https://discord.gg/FYEjpcFYXc)
 
 <sub>Cairo, Egypt 🇪🇬 · everything here is public</sub>
 
